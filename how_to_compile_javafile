@@ -1,5 +1,5 @@
-1. make javafile: aaa.java
+1. create javafile: aaa.java
 
-2. javac aaa.java
-	-> make class file
-3. java aaa
+2. $ javac aaa.java
+	-> create aaa.class
+3. $ java aaa
