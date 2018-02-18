@@ -1,0 +1,5 @@
+1. make javafile: aaa.java
+
+2. javac aaa.java
+	-> make class file
+3. java aaa
